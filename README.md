@@ -4,6 +4,8 @@ Crimson Project – University of Utah MSBA
 
 2024–2025
 
+Team Members: Xinyuan Chen, Linh Do, Hayden Lau
+
 ## **1. Project Overview**
 
 This project supports a geotechnical laboratory by developing a clustering model to group rock samples based on chemical composition. The purpose is to improve sample classification efficiency and provide consistent structure for downstream geological decision-making.
